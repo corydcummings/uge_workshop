@@ -44,14 +44,6 @@
    72  cd moving_around.txt
    73  ls
    74  ls -t
-   75  history > moving_around.txt
-    1  git config --global user.name 'Cory Cummings'
-    2  git congig --global user.email 'corydcummings@gmail.com'
-    3  git config --global user.email 'corydcummings@gmail.com'
-   14  which uname
-   15  clear
-   16  git version
-   17  git user.name
    18  git config --global user.name 'Cory Cummings'
    19  git config --global user.email 'corydcummings@gmail.com'git config -l | sort
    28  ls -lt
