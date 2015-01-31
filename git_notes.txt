@@ -1,0 +1,10 @@
+git status tells you if a file has been added
+git add adds a file to your repository
+git commit commits the changes
+git log is a histor of all of your commits
+
+You only init a repo once
+then you add files and commit the changes
+then you modify the files, add them to stage and commit
+
+a branch is a label that prints to a specific point in time
