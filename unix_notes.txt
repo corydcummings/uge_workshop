@@ -1,0 +1,84 @@
+    1  git config --global user.name 'Cory Cummings'
+    2  git congig --global user.email 'corydcummings@gmail.com'
+    3  git config --global user.email 'corydcummings@gmail.com'
+     13  echo $PATH
+   14  which uname //displays the username of the current user
+   16  git version //displays the version of git
+   20  clear //clears the terminal
+   21  pwd //the location in the file system
+   24  ls //list of contents in the current working directory in alphabetical order
+   26  ls -t //list organized alphabetically in long format
+   28  ls -lt
+   30  ls -r
+   31  man ls
+   32  man lk
+   33  ls -G
+   34  ls
+   35  ls -h
+   36  ls -o
+   37  ls -a
+   38  ls -m
+   39  cd /c/Users/ccummings
+   50  cd AMC
+   51  ls
+   52  cd ..
+   53  cd ..
+   54  subl.
+   55  history
+   56  history -5
+   57  history | less
+   58    history | sort | less
+   59  pwd
+   60  cd
+   61  clear
+   62  cd
+   63  history > moving_around.txt
+   64  less moving_around.txt
+   65  CAT moving_around.txt
+   66  moving_around.txt | less
+   67  cat moving_around.txt | less
+   68  less moving_around.txt
+   69  ls
+   70  cat moving_around.txt | less
+   71  less moving_around.txt
+   72  cd moving_around.txt
+   73  ls
+   74  ls -t
+   75  history > moving_around.txt
+    1  git config --global user.name 'Cory Cummings'
+    2  git congig --global user.email 'corydcummings@gmail.com'
+    3  git config --global user.email 'corydcummings@gmail.com'
+   14  which uname
+   15  clear
+   16  git version
+   17  git user.name
+   18  git config --global user.name 'Cory Cummings'
+   19  git config --global user.email 'corydcummings@gmail.com'git config -l | sort
+   28  ls -lt
+   30  ls -r
+   31  man ls
+   32  man lk
+   33  ls -G
+   34  ls
+   35  ls -h
+   36  ls -o
+   37  ls -a
+   38  ls -m
+   39  cd /c/Users/ccummings
+   52  cd ..
+   53  cd ..
+   54  subl.
+   55  history
+   56  history -5
+   57  history | less
+   63  history > moving_around.txt
+   64  less moving_around.txt
+   65  CAT moving_around.txt
+   66  moving_around.txt | less
+   67  cat moving_around.txt | less
+   68  less moving_around.txt
+   70  cat moving_around.txt | less
+   71  less moving_around.txt
+   75  history > moving_around.txt
+   76  less moving_around.txt
+   79  history >> moving_around.txt
